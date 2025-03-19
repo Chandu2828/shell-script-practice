@@ -1,0 +1,1 @@
+USERID=$(ud -u)
