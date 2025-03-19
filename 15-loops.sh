@@ -1,1 +1,1 @@
-USERID=$(ud -u)
+USERID=$(id -u)
